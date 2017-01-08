@@ -7,7 +7,7 @@
 <body>
 	<h1></h1>
 	<ul>
-		<li></li>
+		<li>First nav</li>
 		<li></li>
 		<li></li>
 		<li></li>
